@@ -1,17 +1,16 @@
 {
-  "name": "spike-nodejs-basic",
-  "version": "1.0.0",
-  "description": "Created after I got the myExpress app working in Azure - want to start with something basic",
-  
+  "name": "spike-nodej-basic",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-  "start": "node MyFirst.js"
+    "start": "node ./bin/www"
   },
-
-
-  "author": "Carla Legg",
-
-  "bugs": {
-    "url": "https://github.com/Xarla/spike-nodejs-basic/issues"
-  },
-  "homepage": "https://github.com/Xarla/spike-nodejs-basic#readme"
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "pug": "2.0.0-beta11"
+  }
 }
