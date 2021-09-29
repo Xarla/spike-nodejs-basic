@@ -6,15 +6,10 @@
   "scripts": {
   "start": "node MyFirst.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Xarla/spike-nodejs-basic.git"
-  },
-  "keywords": [
-    "nodejs"
-  ],
+
+
   "author": "Carla Legg",
-  "license": "ISC",
+
   "bugs": {
     "url": "https://github.com/Xarla/spike-nodejs-basic/issues"
   },
