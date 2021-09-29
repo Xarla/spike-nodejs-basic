@@ -4,6 +4,7 @@
   "description": "Created after I got the myExpress app working in Azure - want to start with something basic",
   "main": "MyFirst.js",
   "scripts": {
+  "start": "node MyFirstjs"
   },
   "repository": {
     "type": "git",
