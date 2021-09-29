@@ -4,7 +4,6 @@
   "description": "Created after I got the myExpress app working in Azure - want to start with something basic",
   "main": "MyFirst.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
